@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a{text-decoration: none;}
+nav {background-color: black;
+    height: 64px;
+    padding: 15px;
+    width: 98%;
+    }
+    h1{margin: .8rem}
+   
+  ul 
+   {display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ p{
+    margin: .8rem;
+}
+
+#image { max-width: 100%;
+    height: auto;
+   display: block;
+   margin: auto;
+   width: 600px;
+}
+#img-caption{
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 5px;
+}
+h2{margin: .8rem}
